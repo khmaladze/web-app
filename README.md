@@ -1,4 +1,3 @@
-# web-app
 # web application
 
 Application where you can create account. follow and unfollow user create post, update post, create storie, like and unlike you can choose if you want to make your profile visible for others from main page.
