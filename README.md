@@ -7,12 +7,15 @@ application is not finished i start this project for 1 week. i will add new feat
 to use this application you need:
 
 1. go to cd/client
+
    npm install
 
 2. go to cd/server
+   
    npm install
 
 3. go to cd/socket
+   
    npm install
 
 create .env file in server and add
