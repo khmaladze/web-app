@@ -26,3 +26,5 @@ MONGO_URL = your_mongodb
 JWT_SECRET = your_jwt_secret
 
 ADMIN_SECRET = your_jwt_secret_for_admin
+
+it's old project and everything is not perfect.
