@@ -1,3 +1,6 @@
+
+![pr7](https://github.com/user-attachments/assets/befd7072-146b-47e0-b7bb-b56231a617a9)
+
 # web application
 
 Application where you can create account. follow and unfollow user create post, update post, create storie, like and unlike you can choose if you want to make your profile visible for others from main page.
